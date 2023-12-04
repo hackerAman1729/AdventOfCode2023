@@ -30,7 +30,7 @@ def sum_of_possible_games(file_path, max_red, max_green, max_blue):
   print(f"Possible Games: {possible_games}")
   return total_sum
 
-file_path = 'day2.txt'
+file_path = 'day2/day2.txt'
 max_red = 12
 max_green = 13
 max_blue = 14

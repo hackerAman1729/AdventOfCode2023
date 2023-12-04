@@ -33,7 +33,7 @@ def part1(file_path):
                 j += 1
     return total
 
-file_path = 'ques3.txt'
+file_path = 'day3/ques3.txt'
 print(part1(file_path))
 
 def part2(file_path):

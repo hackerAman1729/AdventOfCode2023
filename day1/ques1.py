@@ -39,7 +39,7 @@ def calculate_calibration_sum_part2(file_path):
 
     return total_sum
 
-file_path = 'ques1.txt'
+file_path = 'day1/ques1.txt'
 print(f"{calculate_calibration_sum_part1(file_path)}")
 print(f"{calculate_calibration_sum_part2(file_path)}")
 
